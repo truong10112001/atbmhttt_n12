@@ -1,0 +1,259 @@
+C:\Users\NGO MAU TRUONG\Desktop\HK2_2021_2022\An toàn và bảo mật HTTT\DOAN_ATBMHTTT\bin\Debug\DOAN_ATBMHTTT.exe.config
+C:\Users\NGO MAU TRUONG\Desktop\HK2_2021_2022\An toàn và bảo mật HTTT\DOAN_ATBMHTTT\bin\Debug\DOAN_ATBMHTTT.exe
+C:\Users\NGO MAU TRUONG\Desktop\HK2_2021_2022\An toàn và bảo mật HTTT\DOAN_ATBMHTTT\bin\Debug\DOAN_ATBMHTTT.pdb
+C:\Users\NGO MAU TRUONG\Desktop\HK2_2021_2022\An toàn và bảo mật HTTT\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.csproj.AssemblyReference.cache
+C:\Users\NGO MAU TRUONG\Desktop\HK2_2021_2022\An toàn và bảo mật HTTT\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.Form1.resources
+C:\Users\NGO MAU TRUONG\Desktop\HK2_2021_2022\An toàn và bảo mật HTTT\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.Properties.Resources.resources
+C:\Users\NGO MAU TRUONG\Desktop\HK2_2021_2022\An toàn và bảo mật HTTT\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.csproj.GenerateResource.cache
+C:\Users\NGO MAU TRUONG\Desktop\HK2_2021_2022\An toàn và bảo mật HTTT\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.csproj.CoreCompileInputs.cache
+C:\Users\NGO MAU TRUONG\Desktop\HK2_2021_2022\An toàn và bảo mật HTTT\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.exe
+C:\Users\NGO MAU TRUONG\Desktop\HK2_2021_2022\An toàn và bảo mật HTTT\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.pdb
+C:\Users\NGO MAU TRUONG\Desktop\HK2_2021_2022\An toàn và bảo mật HTTT\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.fManager.resources
+C:\Users\LENOVO\Desktop\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\DOAN_ATBMHTTT.exe.config
+C:\Users\LENOVO\Desktop\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\DOAN_ATBMHTTT.exe
+C:\Users\LENOVO\Desktop\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\DOAN_ATBMHTTT.pdb
+C:\Users\LENOVO\Desktop\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.fManager.resources
+C:\Users\LENOVO\Desktop\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.Form1.resources
+C:\Users\LENOVO\Desktop\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.exe
+C:\Users\LENOVO\Desktop\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.pdb
+C:\Users\LENOVO\Desktop\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LENOVO\Desktop\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\LENOVO\Desktop\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Buffers.dll
+C:\Users\LENOVO\Desktop\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\LENOVO\Desktop\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Memory.dll
+C:\Users\LENOVO\Desktop\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LENOVO\Desktop\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LENOVO\Desktop\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Security.AccessControl.dll
+C:\Users\LENOVO\Desktop\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Security.Permissions.dll
+C:\Users\LENOVO\Desktop\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\LENOVO\Desktop\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\LENOVO\Desktop\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Text.Json.dll
+C:\Users\LENOVO\Desktop\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\LENOVO\Desktop\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.ValueTuple.dll
+C:\Users\LENOVO\Desktop\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\LENOVO\Desktop\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Buffers.xml
+C:\Users\LENOVO\Desktop\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\LENOVO\Desktop\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Memory.xml
+C:\Users\LENOVO\Desktop\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LENOVO\Desktop\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LENOVO\Desktop\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Security.AccessControl.xml
+C:\Users\LENOVO\Desktop\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Security.Permissions.xml
+C:\Users\LENOVO\Desktop\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\LENOVO\Desktop\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\LENOVO\Desktop\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Text.Json.xml
+C:\Users\LENOVO\Desktop\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\LENOVO\Desktop\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.ValueTuple.xml
+C:\Users\LENOVO\Desktop\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Reactive.dll
+C:\Users\LENOVO\Desktop\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Reactive.Windows.Forms.dll
+C:\Users\LENOVO\Desktop\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Reactive.xml
+C:\Users\LENOVO\Desktop\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Reactive.Windows.Forms.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\DOAN_ATBMHTTT.exe.config
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\DOAN_ATBMHTTT.exe
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\DOAN_ATBMHTTT.pdb
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Buffers.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Memory.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Reactive.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Reactive.Windows.Forms.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Security.AccessControl.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Security.Permissions.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Text.Json.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.ValueTuple.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Buffers.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Memory.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Reactive.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Reactive.Windows.Forms.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Security.AccessControl.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Security.Permissions.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Text.Json.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\bin\Debug\System.ValueTuple.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.fManager.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.Form1.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.Properties.Resources.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.csproj.GenerateResource.cache
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.csproj.CopyComplete
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.exe
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.pdb
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.AddPrivilegeUser.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.fAddUser.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.fNewPassword.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.fAddRoleOfUser.resources
+C:\Users\nhoxc\Downloads\DOAN_ATBMHTTT\bin\Debug\DOAN_ATBMHTTT.exe.config
+C:\Users\nhoxc\Downloads\DOAN_ATBMHTTT\bin\Debug\DOAN_ATBMHTTT.exe
+C:\Users\nhoxc\Downloads\DOAN_ATBMHTTT\bin\Debug\DOAN_ATBMHTTT.pdb
+C:\Users\nhoxc\Downloads\DOAN_ATBMHTTT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nhoxc\Downloads\DOAN_ATBMHTTT\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\nhoxc\Downloads\DOAN_ATBMHTTT\bin\Debug\System.Buffers.dll
+C:\Users\nhoxc\Downloads\DOAN_ATBMHTTT\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\nhoxc\Downloads\DOAN_ATBMHTTT\bin\Debug\System.Memory.dll
+C:\Users\nhoxc\Downloads\DOAN_ATBMHTTT\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nhoxc\Downloads\DOAN_ATBMHTTT\bin\Debug\System.Reactive.dll
+C:\Users\nhoxc\Downloads\DOAN_ATBMHTTT\bin\Debug\System.Reactive.Windows.Forms.dll
+C:\Users\nhoxc\Downloads\DOAN_ATBMHTTT\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nhoxc\Downloads\DOAN_ATBMHTTT\bin\Debug\System.Security.AccessControl.dll
+C:\Users\nhoxc\Downloads\DOAN_ATBMHTTT\bin\Debug\System.Security.Permissions.dll
+C:\Users\nhoxc\Downloads\DOAN_ATBMHTTT\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\nhoxc\Downloads\DOAN_ATBMHTTT\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\nhoxc\Downloads\DOAN_ATBMHTTT\bin\Debug\System.Text.Json.dll
+C:\Users\nhoxc\Downloads\DOAN_ATBMHTTT\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nhoxc\Downloads\DOAN_ATBMHTTT\bin\Debug\System.ValueTuple.dll
+C:\Users\nhoxc\Downloads\DOAN_ATBMHTTT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nhoxc\Downloads\DOAN_ATBMHTTT\bin\Debug\System.Buffers.xml
+C:\Users\nhoxc\Downloads\DOAN_ATBMHTTT\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\nhoxc\Downloads\DOAN_ATBMHTTT\bin\Debug\System.Memory.xml
+C:\Users\nhoxc\Downloads\DOAN_ATBMHTTT\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nhoxc\Downloads\DOAN_ATBMHTTT\bin\Debug\System.Reactive.xml
+C:\Users\nhoxc\Downloads\DOAN_ATBMHTTT\bin\Debug\System.Reactive.Windows.Forms.xml
+C:\Users\nhoxc\Downloads\DOAN_ATBMHTTT\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nhoxc\Downloads\DOAN_ATBMHTTT\bin\Debug\System.Security.AccessControl.xml
+C:\Users\nhoxc\Downloads\DOAN_ATBMHTTT\bin\Debug\System.Security.Permissions.xml
+C:\Users\nhoxc\Downloads\DOAN_ATBMHTTT\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\nhoxc\Downloads\DOAN_ATBMHTTT\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\nhoxc\Downloads\DOAN_ATBMHTTT\bin\Debug\System.Text.Json.xml
+C:\Users\nhoxc\Downloads\DOAN_ATBMHTTT\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nhoxc\Downloads\DOAN_ATBMHTTT\bin\Debug\System.ValueTuple.xml
+C:\Users\nhoxc\Downloads\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.csproj.AssemblyReference.cache
+C:\Users\nhoxc\Downloads\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.AddPrivilegeUser.resources
+C:\Users\nhoxc\Downloads\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.fAddRoleOfUser.resources
+C:\Users\nhoxc\Downloads\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.fAddUser.resources
+C:\Users\nhoxc\Downloads\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.fManager.resources
+C:\Users\nhoxc\Downloads\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.fNewPassword.resources
+C:\Users\nhoxc\Downloads\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.Form1.resources
+C:\Users\nhoxc\Downloads\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.Properties.Resources.resources
+C:\Users\nhoxc\Downloads\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.csproj.GenerateResource.cache
+C:\Users\nhoxc\Downloads\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.csproj.CoreCompileInputs.cache
+C:\Users\nhoxc\Downloads\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.csproj.CopyComplete
+C:\Users\nhoxc\Downloads\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.exe
+C:\Users\nhoxc\Downloads\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.pdb
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\bin\Debug\DOAN_ATBMHTTT.exe.config
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\bin\Debug\DOAN_ATBMHTTT.exe
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\bin\Debug\DOAN_ATBMHTTT.pdb
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\bin\Debug\System.Buffers.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\bin\Debug\System.Memory.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\bin\Debug\System.Reactive.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\bin\Debug\System.Reactive.Windows.Forms.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\bin\Debug\System.Security.AccessControl.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\bin\Debug\System.Security.Permissions.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\bin\Debug\System.Text.Json.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\bin\Debug\System.ValueTuple.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\bin\Debug\System.Buffers.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\bin\Debug\System.Memory.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\bin\Debug\System.Reactive.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\bin\Debug\System.Reactive.Windows.Forms.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\bin\Debug\System.Security.AccessControl.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\bin\Debug\System.Security.Permissions.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\bin\Debug\System.Text.Json.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\bin\Debug\System.ValueTuple.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.AddPrivilegeUser.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.fAddRoleOfUser.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.fAddUser.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.fManager.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.fNewPassword.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.Form1.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.Properties.Resources.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.csproj.GenerateResource.cache
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.csproj.CopyComplete
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.exe
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.pdb
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.fAddRole.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.AddPrivilegeRole.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\bin\Debug\DOAN_ATBMHTTT.exe.config
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\bin\Debug\DOAN_ATBMHTTT.exe
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\bin\Debug\DOAN_ATBMHTTT.pdb
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\bin\Debug\System.Buffers.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\bin\Debug\System.Memory.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\bin\Debug\System.Reactive.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\bin\Debug\System.Reactive.Windows.Forms.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\bin\Debug\System.Security.AccessControl.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\bin\Debug\System.Security.Permissions.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\bin\Debug\System.Text.Json.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\bin\Debug\System.ValueTuple.dll
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\bin\Debug\System.Buffers.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\bin\Debug\System.Memory.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\bin\Debug\System.Reactive.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\bin\Debug\System.Reactive.Windows.Forms.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\bin\Debug\System.Security.AccessControl.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\bin\Debug\System.Security.Permissions.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\bin\Debug\System.Text.Json.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\bin\Debug\System.ValueTuple.xml
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.AddPrivilegeRole.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.AddPrivilegeUser.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.fAddRole.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.fAddRoleOfUser.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.fAddUser.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.fManager.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.fNewPassword.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.Properties.Resources.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.csproj.GenerateResource.cache
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.csproj.CopyComplete
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.exe
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.pdb
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.fLogin.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.fThanhTra.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.fThanhTra_Select.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.fThongTinNhanVien.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.fBenhNhan.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.fBenhNhan_ChinhSua.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.fNhanVien_NghiepVu.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.fNhanVien_NghiepVu_HSBA.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.fNhanVien_NghiepVu_HSBA_DV.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.fNghienCuu.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.fYBacSi.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.fYBacSi_Tim.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.fYBacSi_Tim_HSBA.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\An toàn và bảo mật hệ thống thông tin\v2\v3\DOAN_ATBMHTTT\obj\Debug\DOAN_ATBMHTTT.fYBacSi_Tim_HSBA_DV.resources
