@@ -61,6 +61,39 @@ namespace DOAN_ATBMHTTT
             
         }
 
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
 
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBoxfLoginPassword_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBoxfLoginUsername_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
