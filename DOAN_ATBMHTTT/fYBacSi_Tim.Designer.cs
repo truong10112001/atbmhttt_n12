@@ -37,7 +37,7 @@ namespace DOAN_ATBMHTTT
             this.textBoxBenhNhan = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.buttonHSBA = new System.Windows.Forms.Button();
-            this.buttonHSBA_DV = new System.Windows.Forms.Button();
+            this.buttonTaiLai = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewBenhNhan)).BeginInit();
             this.SuspendLayout();
             // 
@@ -80,6 +80,7 @@ namespace DOAN_ATBMHTTT
             this.buttonTimCMND.TabIndex = 11;
             this.buttonTimCMND.Text = "Tìm";
             this.buttonTimCMND.UseVisualStyleBackColor = false;
+            this.buttonTimCMND.Click += new System.EventHandler(this.buttonTimCMND_Click);
             // 
             // buttonTimMABN
             // 
@@ -93,6 +94,7 @@ namespace DOAN_ATBMHTTT
             this.buttonTimMABN.TabIndex = 14;
             this.buttonTimMABN.Text = "Tìm";
             this.buttonTimMABN.UseVisualStyleBackColor = false;
+            this.buttonTimMABN.Click += new System.EventHandler(this.buttonTimMABN_Click);
             // 
             // textBoxBenhNhan
             // 
@@ -117,25 +119,27 @@ namespace DOAN_ATBMHTTT
             this.buttonHSBA.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonHSBA.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonHSBA.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.buttonHSBA.Location = new System.Drawing.Point(677, 143);
+            this.buttonHSBA.Location = new System.Drawing.Point(677, 252);
             this.buttonHSBA.Name = "buttonHSBA";
             this.buttonHSBA.Size = new System.Drawing.Size(94, 102);
             this.buttonHSBA.TabIndex = 15;
             this.buttonHSBA.Text = "Xem HSBA";
             this.buttonHSBA.UseVisualStyleBackColor = false;
+            this.buttonHSBA.Click += new System.EventHandler(this.buttonHSBA_Click);
             // 
-            // buttonHSBA_DV
+            // buttonTaiLai
             // 
-            this.buttonHSBA_DV.BackColor = System.Drawing.Color.Green;
-            this.buttonHSBA_DV.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.buttonHSBA_DV.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonHSBA_DV.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.buttonHSBA_DV.Location = new System.Drawing.Point(677, 349);
-            this.buttonHSBA_DV.Name = "buttonHSBA_DV";
-            this.buttonHSBA_DV.Size = new System.Drawing.Size(94, 102);
-            this.buttonHSBA_DV.TabIndex = 16;
-            this.buttonHSBA_DV.Text = "Xem HSBA_DV";
-            this.buttonHSBA_DV.UseVisualStyleBackColor = false;
+            this.buttonTaiLai.BackColor = System.Drawing.Color.Green;
+            this.buttonTaiLai.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonTaiLai.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonTaiLai.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.buttonTaiLai.Location = new System.Drawing.Point(677, 19);
+            this.buttonTaiLai.Name = "buttonTaiLai";
+            this.buttonTaiLai.Size = new System.Drawing.Size(94, 40);
+            this.buttonTaiLai.TabIndex = 17;
+            this.buttonTaiLai.Text = "Tải lại";
+            this.buttonTaiLai.UseVisualStyleBackColor = false;
+            this.buttonTaiLai.Click += new System.EventHandler(this.buttonTaiLai_Click);
             // 
             // fYBacSi_Tim
             // 
@@ -143,7 +147,7 @@ namespace DOAN_ATBMHTTT
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
             this.ClientSize = new System.Drawing.Size(783, 544);
-            this.Controls.Add(this.buttonHSBA_DV);
+            this.Controls.Add(this.buttonTaiLai);
             this.Controls.Add(this.buttonHSBA);
             this.Controls.Add(this.buttonTimMABN);
             this.Controls.Add(this.textBoxBenhNhan);
@@ -153,7 +157,9 @@ namespace DOAN_ATBMHTTT
             this.Controls.Add(this.label1);
             this.Controls.Add(this.dataGridViewBenhNhan);
             this.Name = "fYBacSi_Tim";
-            this.Text = "fYBacSi_Tim";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
+            this.Text = "Bệnh nhân";
+            this.Load += new System.EventHandler(this.fYBacSi_Tim_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewBenhNhan)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -170,6 +176,6 @@ namespace DOAN_ATBMHTTT
         private System.Windows.Forms.TextBox textBoxBenhNhan;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button buttonHSBA;
-        private System.Windows.Forms.Button buttonHSBA_DV;
+        private System.Windows.Forms.Button buttonTaiLai;
     }
 }

@@ -12,31 +12,31 @@ using System.Configuration;
 
 namespace DOAN_ATBMHTTT
 {
-    public partial class fYBacSi_Tim_HSBA : Form
+    public partial class fNghienCuu_HSBA : Form
     {
         OracleConnection con;
-        string mabn;
-        public fYBacSi_Tim_HSBA(OracleConnection con0, string mabn0)
+
+        public fNghienCuu_HSBA(OracleConnection con0)
         {
             con = con0;
-            mabn = mabn0;
             InitializeComponent();
         }
 
-        private void fYBacSi_Tim_HSBA_Load(object sender, EventArgs e)
+        private void fNghienCuu_HSBA_Load(object sender, EventArgs e)
         {
             if (con == null || con.State == ConnectionState.Closed)
                 con.Open();
-            string q = "select * from system.HSBA where MABS in (select user from dual) and MABN = '"+ mabn + "'";
+            string q = "select * from system.HSBA" +
+                        " where MAKHOA in (select CHUYENKHOA from system.NHANVIEN where MANV in (select user from dual))" +
+                        " and MACSYT in (select CSYT from system.NHANVIEN where MANV in (select user from dual))";
             OracleDataAdapter da = new OracleDataAdapter(q, con);
             DataTable dt = new DataTable();
             da.Fill(dt);
             dataGridViewHSBA.DataSource = dt;
         }
-
         private void dataGridViewHSBA_CellClick(object sender, DataGridViewCellEventArgs e)
         {
-            if(dataGridViewHSBA.CurrentRow.Index == -1)
+            if (dataGridViewHSBA.CurrentRow.Index == -1)
             {
                 return;
             }

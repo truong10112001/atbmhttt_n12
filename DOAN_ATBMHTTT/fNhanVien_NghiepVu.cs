@@ -15,8 +15,9 @@ namespace DOAN_ATBMHTTT
     public partial class fNhanVien_NghiepVu : Form
     {
         OracleConnection con;
-        public fNhanVien_NghiepVu()
+        public fNhanVien_NghiepVu(OracleConnection con0)
         {
+            con = con0;
             InitializeComponent();
         }
 
@@ -26,6 +27,19 @@ namespace DOAN_ATBMHTTT
             this.Hide();
             f.ShowDialog();
             this.Show();
+        }
+
+        private void buttonfNhanVien_NghiepVuHSBA_Click(object sender, EventArgs e)
+        {
+            fNhanVien_NghiepVu_HSBA f = new fNhanVien_NghiepVu_HSBA(con);
+            this.Hide();
+            f.ShowDialog();
+            this.Show();
+        }
+
+        private void fNhanVien_NghiepVu_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -48,6 +48,7 @@ namespace DOAN_ATBMHTTT
             this.buttonfYBacSi_BN.TabIndex = 10;
             this.buttonfYBacSi_BN.Text = "Bệnh nhân";
             this.buttonfYBacSi_BN.UseVisualStyleBackColor = false;
+            this.buttonfYBacSi_BN.Click += new System.EventHandler(this.buttonfYBacSi_BN_Click);
             // 
             // buttonfYBacSiUser
             // 
@@ -61,6 +62,7 @@ namespace DOAN_ATBMHTTT
             this.buttonfYBacSiUser.TabIndex = 9;
             this.buttonfYBacSiUser.Text = "User";
             this.buttonfYBacSiUser.UseVisualStyleBackColor = false;
+            this.buttonfYBacSiUser.Click += new System.EventHandler(this.buttonfYBacSiUser_Click);
             // 
             // pictureBox1
             // 
@@ -82,7 +84,9 @@ namespace DOAN_ATBMHTTT
             this.Controls.Add(this.buttonfYBacSiUser);
             this.Controls.Add(this.pictureBox1);
             this.Name = "fYBacSi";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
             this.Text = "fYBacSi";
+            this.Load += new System.EventHandler(this.fYBacSi_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 

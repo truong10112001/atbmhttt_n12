@@ -66,7 +66,8 @@ namespace DOAN_ATBMHTTT
             this.Controls.Add(this.buttonChinhSua);
             this.Controls.Add(this.dataGridViewfBenhNhan);
             this.Name = "fBenhNhan";
-            this.Text = "fBenhNhan";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
+            this.Text = "Bệnh nhân";
             this.Load += new System.EventHandler(this.fBenhNhan_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewfBenhNhan)).EndInit();
             this.ResumeLayout(false);

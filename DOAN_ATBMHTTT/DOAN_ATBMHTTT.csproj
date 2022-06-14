@@ -186,6 +186,12 @@
     <Compile Include="fNghienCuu.Designer.cs">
       <DependentUpon>fNghienCuu.cs</DependentUpon>
     </Compile>
+    <Compile Include="fNghienCuu_HSBA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fNghienCuu_HSBA.Designer.cs">
+      <DependentUpon>fNghienCuu_HSBA.cs</DependentUpon>
+    </Compile>
     <Compile Include="fNhanVien_NghiepVu.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -198,11 +204,17 @@
     <Compile Include="fNhanVien_NghiepVu_HSBA.Designer.cs">
       <DependentUpon>fNhanVien_NghiepVu_HSBA.cs</DependentUpon>
     </Compile>
-    <Compile Include="fNhanVien_NghiepVu_HSBA_DV.cs">
+    <Compile Include="fNhanVien_NghiepVu_HSBA_ThemHSBAcs.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="fNhanVien_NghiepVu_HSBA_DV.Designer.cs">
-      <DependentUpon>fNhanVien_NghiepVu_HSBA_DV.cs</DependentUpon>
+    <Compile Include="fNhanVien_NghiepVu_HSBA_ThemHSBAcs.Designer.cs">
+      <DependentUpon>fNhanVien_NghiepVu_HSBA_ThemHSBAcs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fNhanVien_NghiepVu_HSBA_ThemHSBA_DV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fNhanVien_NghiepVu_HSBA_ThemHSBA_DV.Designer.cs">
+      <DependentUpon>fNhanVien_NghiepVu_HSBA_ThemHSBA_DV.cs</DependentUpon>
     </Compile>
     <Compile Include="fThanhTra_Select.cs">
       <SubType>Form</SubType>
@@ -240,12 +252,6 @@
     <Compile Include="fYBacSi_Tim_HSBA.Designer.cs">
       <DependentUpon>fYBacSi_Tim_HSBA.cs</DependentUpon>
     </Compile>
-    <Compile Include="fYBacSi_Tim_HSBA_DV.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="fYBacSi_Tim_HSBA_DV.Designer.cs">
-      <DependentUpon>fYBacSi_Tim_HSBA_DV.cs</DependentUpon>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="AddPrivilegeRole.resx">
@@ -281,14 +287,20 @@
     <EmbeddedResource Include="fNghienCuu.resx">
       <DependentUpon>fNghienCuu.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="fNghienCuu_HSBA.resx">
+      <DependentUpon>fNghienCuu_HSBA.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="fNhanVien_NghiepVu.resx">
       <DependentUpon>fNhanVien_NghiepVu.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="fNhanVien_NghiepVu_HSBA.resx">
       <DependentUpon>fNhanVien_NghiepVu_HSBA.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="fNhanVien_NghiepVu_HSBA_DV.resx">
-      <DependentUpon>fNhanVien_NghiepVu_HSBA_DV.cs</DependentUpon>
+    <EmbeddedResource Include="fNhanVien_NghiepVu_HSBA_ThemHSBAcs.resx">
+      <DependentUpon>fNhanVien_NghiepVu_HSBA_ThemHSBAcs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fNhanVien_NghiepVu_HSBA_ThemHSBA_DV.resx">
+      <DependentUpon>fNhanVien_NghiepVu_HSBA_ThemHSBA_DV.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="fThanhTra.resx">
       <DependentUpon>fThanhTra.cs</DependentUpon>
@@ -307,9 +319,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="fYBacSi_Tim_HSBA.resx">
       <DependentUpon>fYBacSi_Tim_HSBA.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="fYBacSi_Tim_HSBA_DV.resx">
-      <DependentUpon>fYBacSi_Tim_HSBA_DV.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

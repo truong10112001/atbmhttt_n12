@@ -59,7 +59,6 @@ namespace DOAN_ATBMHTTT
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(358, 505);
             this.panel1.TabIndex = 0;
-            this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
             // label3
             // 
@@ -71,7 +70,6 @@ namespace DOAN_ATBMHTTT
             this.label3.Size = new System.Drawing.Size(91, 20);
             this.label3.TabIndex = 10;
             this.label3.Text = "Password";
-            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // textBoxfLoginPassword
             // 
@@ -81,7 +79,6 @@ namespace DOAN_ATBMHTTT
             this.textBoxfLoginPassword.PasswordChar = '*';
             this.textBoxfLoginPassword.Size = new System.Drawing.Size(248, 37);
             this.textBoxfLoginPassword.TabIndex = 9;
-            this.textBoxfLoginPassword.TextChanged += new System.EventHandler(this.textBoxfLoginPassword_TextChanged);
             // 
             // textBoxfLoginUsername
             // 
@@ -90,7 +87,6 @@ namespace DOAN_ATBMHTTT
             this.textBoxfLoginUsername.Name = "textBoxfLoginUsername";
             this.textBoxfLoginUsername.Size = new System.Drawing.Size(248, 37);
             this.textBoxfLoginUsername.TabIndex = 8;
-            this.textBoxfLoginUsername.TextChanged += new System.EventHandler(this.textBoxfLoginUsername_TextChanged);
             // 
             // label2
             // 
@@ -102,7 +98,6 @@ namespace DOAN_ATBMHTTT
             this.label2.Size = new System.Drawing.Size(94, 20);
             this.label2.TabIndex = 7;
             this.label2.Text = "Username";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // label1
             // 
@@ -114,7 +109,6 @@ namespace DOAN_ATBMHTTT
             this.label1.Size = new System.Drawing.Size(268, 29);
             this.label1.TabIndex = 6;
             this.label1.Text = "Login to Your Account";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // pictureBox1
             // 
@@ -125,7 +119,6 @@ namespace DOAN_ATBMHTTT
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 5;
             this.pictureBox1.TabStop = false;
-            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // buttonExit
             // 

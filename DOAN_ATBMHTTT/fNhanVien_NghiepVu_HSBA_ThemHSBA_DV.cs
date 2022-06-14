@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace DOAN_ATBMHTTT
 {
-    public partial class fYBacSi_Tim_HSBA_DV : Form
+    public partial class fNhanVien_NghiepVu_HSBA_ThemHSBA_DV : Form
     {
-        public fYBacSi_Tim_HSBA_DV()
+        public fNhanVien_NghiepVu_HSBA_ThemHSBA_DV()
         {
             InitializeComponent();
+        }
+
+        private void buttonThem_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
